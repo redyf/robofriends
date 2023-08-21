@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%20//redyf.github.io/robofriends/static/css/main.62677352.css",
+    "main.js": "/%20//redyf.github.io/robofriends/static/js/main.560c777f.js",
+    "static/media/SEGA.woff": "/%20//redyf.github.io/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/%20//redyf.github.io/robofriends/index.html",
+    "main.62677352.css.map": "/%20//redyf.github.io/robofriends/static/css/main.62677352.css.map",
+    "main.560c777f.js.map": "/%20//redyf.github.io/robofriends/static/js/main.560c777f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62677352.css",
+    "static/js/main.560c777f.js"
+  ]
+}
