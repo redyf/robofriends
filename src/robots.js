@@ -1,62 +1,62 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
+    name: 'Filipe Oliveira',
+    username: 'uGamerCrazy',
     email: 'Sincere@april.biz'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
+    name: 'Brururunu Perzentino',
+    username: 'Batatão',
     email: 'Shanna@melissa.tv'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
+    name: 'Ricardo Ramos',
+    username: 'Destiny2player',
     email: 'Nathan@yesenia.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Geovani Italiano',
+    username: 'Pizza',
+    email: 'Geovani.OConner@kory.org'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
+    name: 'João Lucas',
+    username: '300reaisnovalorant',
     email: 'Lucio_Hettinger@annie.ca'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
+    name: 'Daniel Radiant',
+    username: 'valoranbestgame',
     email: 'Karley_Dach@jasper.info'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'José Bruno',
+    username: 'Otaku123',
+    email: 'Anime.Hoeger@billy.biz'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Nathan cara de óculos',
+    username: 'Thesunscaresme',
+    email: 'Nathan@rosamond.me'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
+    name: 'Gabriel Miranda',
+    username: 'IuseArchBtw',
     email: 'Chaim_McDermott@dana.io'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
+    name: 'Iruma Kun',
+    username: 'Irumax',
     email: 'Rey.Padberg@karina.biz'
   }
 ];
